@@ -1,12 +1,12 @@
 # xUnit-Shared-Context-between-Tests
 
-Experimenting with xUNit to have a better understanding of sharing test context and dependencies.
+Experimenting and documenting sharing test context and dependencies in xUNit to have a better understanding.
 
 Next Technologies will be
 - Moq
 - IhttpClientFactory
 
-I have three Folders explaining each of the following:
+I have three Folders documenting each of the following:
 
 ## Constructer and Dispose: Shared setup/cleanup code without sharing object instances
 - xUnit.net creates a new instance of the test class for every single test
