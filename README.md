@@ -3,7 +3,7 @@
 Experimenting and documenting sharing test context and dependencies in xUNit to have a better understanding.
 
 Next Technologies I will be experimenting and documenting are
-- IhttpClientFactory
+- IHttpClientFactory
 - Moq
 
 I have three Folders documenting each of the following:
