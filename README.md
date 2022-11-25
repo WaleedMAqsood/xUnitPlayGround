@@ -2,7 +2,7 @@
 
 Experimenting and documenting sharing test context and dependencies in xUNit to have a better understanding.
 
-Next Technologies I will be experimenting and documenting are
+Next Technologies I plan to experiment with are
 - IHttpClientFactory
 - Testing Controllers using Moq
 
