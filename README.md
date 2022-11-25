@@ -2,9 +2,9 @@
 
 Experimenting and documenting sharing test context and dependencies in xUNit to have a better understanding.
 
-Next Technologies will be
-- Moq
+Next Technologies I will be experimenting with are
 - IhttpClientFactory
+- Moq
 
 I have three Folders documenting each of the following:
 
