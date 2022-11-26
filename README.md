@@ -6,7 +6,7 @@ Next Technologies I plan to experiment with are
 - IHttpClientFactory
 - Testing Controllers using Moq
 
-I have three Folders documenting each of the following:
+I have three Folders in the project with each of the following:
 
 ## Constructer and Dispose: Shared setup/cleanup code without sharing object instances
 - xUnit.net creates a new instance of the test class for every single test
